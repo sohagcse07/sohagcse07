@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Sohag  
 
-<!--
-**sohagcse07/sohagcse07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Technology (CST) | 6th Semester @ Brahmanbaria Polytechnic Institute  
+💻 Aspiring Backend Developer | Django, REST APIs, MySQL, PostgreSQL  
+🚀 Passionate about Problem Solving, System Design, and Scalable Applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently learning **Django & PostgreSQL**  
+- 🧑‍💻 Interested in **Backend Development & iOS Development (future goal)**  
+- 🎯 Goal: Build impactful software projects & contribute to open source  
+- ⚡ Fun fact: I enjoy blending **DSA + Real Projects** for better learning  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:**  
+`Python` `C++` `SQL`  
+
+**Frameworks & Tools:**  
+`Django` `REST API` `MySQL` `PostgreSQL` `MoviePy` `OpenCV`  
+
+**Other Skills:**  
+`Data Structures & Algorithms` `System Design` `Web Scraping`  
+
+---
+
+## 📊 GitHub Stats  
+![Sohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+---
+
+## 📌 Projects  
+- 🖥️ **[Ice Cream Website](#)** – A web app project built with Django  
+- 🎬 **[Video Slideshow Generator](#)** – Generates creative videos with transitions using OpenCV + MoviePy  
+- 📝 **[Blog Platform](#)** – CRUD blog system with categories, tags, and comments using Django  
+
+---
+
+## 🌐 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📧 Email: your-email@example.com  
+
+---
+
+⭐️ From [Sohag](https://github.com/your-github-username)
