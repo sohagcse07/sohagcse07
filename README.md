@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sohag  
 
-🎓 Computer Science & Technology (CST) | 6th Semester @ Brahmanbaria Polytechnic Institute  
+🎓 Computer Science & Technology (CST) | 8th Semester @ Brahmanbaria Polytechnic Institute  
 💻 Aspiring Backend Developer | Django, REST APIs, MySQL, PostgreSQL  
 🚀 Passionate about Problem Solving, System Design, and Scalable Applications  
 
@@ -42,8 +42,8 @@
 
 ## 🌐 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 Email: your-email@example.com  
+- 📧 Email: sohag3769@gmail.com  
 
 ---
 
-⭐️ From [Sohag](https://github.com/your-github-username)
+⭐️ From [Sohag](https://github.com/your-github-sohagcse07)
