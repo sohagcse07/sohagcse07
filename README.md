@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sohag  
 
-🎓 **Computer Science & Technology (CST)** | @ Brahmanbaria Polytechnic Institute  
-💻 **Aspiring Backend Developer** | Django • REST APIs • MySQL • PostgreSQL  
-🚀 Passionate about Problem Solving, System Design & Scalable Applications  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Competitive+Programmer;AI+Explorer;Problem+Solver+🚀" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me  
 - Currently learning **Django & PostgreSQL**  
