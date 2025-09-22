@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sohag  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Competitive+Programmer;AI+Explorer;Problem+Solver+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Competitive+Programmer;AI+Explorer;Problem+Solver+🚀;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me  
